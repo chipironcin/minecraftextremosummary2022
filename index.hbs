@@ -58,5 +58,29 @@
 			<p>Hay algún error? Contribuye editando el código <a href="https://github.com/chipironcin/minecraftextremosummary2022/blob/main/README.md">aquí</a>!</p>
 			<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Me compras un  café? ❤️', '#29abe0', 'R5R7I1WEK');kofiwidget2.draw();</script>
 		</footer>
+		<script>
+			var item = document.querySelectorAll("a[href='https://www.twitch.tv/rioboo']")[0].parentNode;
+			item.addEventListener("mouseenter", showFlipo, false);
+
+			function removeDisappear(){
+				remove = document.getElementById("disappear");
+				remove.remove();
+			}
+
+			function showFlipo()
+			{
+				console.log("triggered showFlipo")
+				remove = document.getElementById("disappear");
+				if(remove) {
+					remove.remove();
+				}
+				block_to_insert = document.createElement( 'div' );
+				block_to_insert.setAttribute("id", "disappear");
+				block_to_insert.innerHTML = '<img src="img/flipo.jpg">' ;
+				container_block = document.getElementsByTagName('body')[0];
+				container_block.appendChild( block_to_insert );
+				setTimeout(removeDisappear, 200)
+			}
+		</script>
 	</body>
 </html>
