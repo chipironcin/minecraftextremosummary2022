@@ -11,15 +11,10 @@ footer {
 	padding: 20px 20px;
 }
 header .example {
-	width: 90%;
-	position: absolute;
-	bottom: 0px;
+	margin: 40px 20px;
 }
 header .twitter {
-	width: 90%;
-	position: absolute;
-	bottom: 0px;
-	right: 0px;
+	margin: 20px 10px;
 	text-align: right;
 }
 header .twitter img {
