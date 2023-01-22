@@ -22,12 +22,13 @@ jobs:
           # Files to process
           files: index.hbs
           # Output filename template
-          output-filename: {{ file.dir }}/index.html
+          output-filename: '{{ file.dir }}/index.html'
       - name: Commit
-        uses: actions/checkout@v3
-        run: |
+      - uses: actions/checkout@v3
+      - run: |
+          date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Regenerate index.html"
+          git commit -m "feat: Regenerate index.html"
           git push
