@@ -112,3 +112,11 @@ footer {
 #disappear img {
 	width: 100%;
 }
+
+#preloadedImages
+{
+    width: 0px;
+    height: 0px;
+    display: inline;
+    background-image: url(img/flipo.webp);
+}
