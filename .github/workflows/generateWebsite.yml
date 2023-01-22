@@ -22,7 +22,7 @@ jobs:
       - name: Handlebars Render
         uses: mikeal/npx@master
         with:
-          args: 'hbs-cli --data data.json --data "{\"currentDate\": \"${{ steps.date.outputs.date }}\"}" -s index.hbs'
+          args: "hbs-cli --data data.json --data  \\\"{'currentDate': '${{ steps.date.outputs.date }}'}\\\" -s index.hbs"
       - name: Commit
         run: |
           git config user.name github-actions
