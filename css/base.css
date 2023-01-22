@@ -1,0 +1,107 @@
+
+body {
+	background-image: url('https://external-preview.redd.it/WxHTfGCozJMndYFGSRgHenUuYOAO_gfaBH14NVfVL3s.jpg?auto=webp&s=9a7d0840ba3e589b76122afcdba45e41041318c2');
+	color: white;
+}
+
+header {
+	padding: 20px 20px;
+}
+footer {
+	padding: 20px 20px;
+}
+header .example {
+	width: 90%;
+	position: absolute;
+	bottom: 0px;
+}
+header .twitter {
+	width: 90%;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	text-align: right;
+}
+header .twitter img {
+    max-height: 80px;
+    display: inline;
+    vertical-align: middle;
+    margin: 10px;
+}
+a {
+	text-decoration: none;
+}
+a:visited {
+	color: white;
+}
+header .logo {
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.example i {
+	vertical-align: bottom;
+    line-height: 18px;
+}
+.example p {
+	vertical-align: bottom;
+    line-height: 18px;
+	margin-bottom: 0px;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+	align-items: auto;
+	align-content: start;
+	padding: 40px 0;
+}
+.item {
+	z-index: 1;
+	flex: 0 0 auto;
+	margin: 10px;
+	width: 100px;
+	overflow: hidden;
+	padding: 10px;
+	-webkit-transition: z-index 0.2s step-start, all 0.2s ease;
+	-moz-transition: z-index 0.2s step-start, all 0.2s ease;
+	-o-transition: z-index 0.2s step-start, all 0.2s ease;
+	transition: z-index 0.2s step-start, all 0.2s ease;
+	color: grey;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 3px;
+}
+.item a {
+	color: grey;
+}
+
+.item:hover {
+    color: black;
+	transform: scale(1.5);
+	opacity: 1;
+	z-index: 99;
+	background-color: white;
+	-webkit-transition: z-index 0.2s step-end, all 0.2s ease;
+	-moz-transition: z-index 0.2s step-end, all 0.2s ease;
+	-o-transition: z-index 0.2s step-end, all 0.2s ease;
+	transition: z-index 0.2s step-end, all 0.2s ease;
+}
+.item:hover a {
+	color: black;
+}
+.item p {
+	margin-bottom: 0px;
+}
+[class^="icon-heart"]:before, [class*=" icon-heart"]:before {
+	color: red;
+	margin: 0;
+}
+
+footer {
+	background-color:  rgba(0,0,0,.8);
+	text-align: center;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<head>
+		<title>Minecraft Extremo - Life or Death</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="Author" content="Jorge Marin">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<base target="_blank">
+		<!--
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css" />
+		-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/base-min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css">
+		<link rel="stylesheet" type="text/css" href="css/icons.css" />
+	</head>
+	<body>
+		<header>
+			<div class="pure-g">
+				<div class="pure-u-1 pure-u-md-8-24" style="position: relative;">
+					<div class="twitter">
+					<a target="_blank" href="https://twitter.com/Tortilla_Land/">
+						<img src="img/twitterParrot.png"></img>
+						<span>Twitter oficial de Minecraft Extremo</span>
+					</a>
+					</div>
+				</div>
+				<div class="pure-u-1 pure-u-md-8-24">
+					<img class="logo pure-img" src="img/logo_auto_x2.png">
+				</div>
+				<div class="pure-u-1 pure-u-md-8-24" style="position: relative;">
+					<div class="example">
+						<i class="icon-heart"></i>
+						<i class="icon-heart"></i>
+						<i class="icon-heart-empty"></i>
+						<span>- Número de vidas y enlace a las muertes</span>
+						<p>Rioboo - Nombre del streamer y enlace a su canal</p>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div style="text-align: center;">
+			<span>Generado por última vez el {{ date.utc.day }} del {{ date.utc.month }} a las {{ date.utc.hours }}:{{ date.utc.minutes }} UTC</span>
+		</div>
+		<main class="container">
+				{{#each players}}<div class="item">
+					{{#if this.death3}}<a href="{{this.death3}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					{{#if this.death2}}<a href="{{this.death2}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					{{#if this.death1}}<a href="{{this.death1}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					<a href="{{this.channel}}"><p>{{this.name}}</p></a>
+				</div>{{/each}}
+		</main>
+		<footer>
+			<p>Crafteado con <i class="icon-heart"></i> por jorge_de_andalucia</p>
+			<p>No afiliado con Tortilla Land, Minecraft Extremo, Twitter o Twitch</p>
+			<p>Hay algún error? Contribuye editando el código aquí!</p>
+			<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Me compras un  café? ❤️', '#29abe0', 'R5R7I1WEK');kofiwidget2.draw();</script>
+		</footer>
+	</body>
+</html>
