@@ -16,13 +16,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Handlebars Install
-        uses: bahmutov/npm-install@v1
-        with:
-          install-command: npm install -g handlebars-cmd
       - name: Handlebars Render
-        run: |
-          handlebars data.json < index.hbs > index.html
+        uses: mikeal/npx@master
+        args:
+          - hbs-cli
+          - --data
+          - 'data.json'
+          - 'index.hbs'
+          - '--output'
+          - 'index.html'
       - name: Commit
         run: |
           git config user.name github-actions
