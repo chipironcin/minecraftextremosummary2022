@@ -19,10 +19,9 @@ jobs:
         run: echo "date=$(date +"%d/%m/%Y a las %H:%M")" >> $GITHUB_OUTPUT
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Handlebars Render
-        uses: mikeal/npx@master
-        with:
-          args: "hbs-cli --data data.json --data  \\\"{'currentDate': '${{ steps.date.outputs.date }}'}\\\" -s index.hbs"
+      - uses: actions/setup-node@v3
+      - run: |
+          npx hbs-cli --data data.json --data "{\"currentDate\": \"${{ steps.date.outputs.date }}\"}" -s index.hbs
       - name: Commit
         run: |
           git config user.name github-actions
