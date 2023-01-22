@@ -19,9 +19,7 @@ jobs:
       - name: Handlebars Action
         uses: pedrolamas/handlebars-action@v2.1.0
         with:
-          # Files to process
-          files: index.hbs
-          # Output filename template
+          files: '**/index.hbs'
           output-filename: '{{ file.dir }}/index.html'
       - name: Commit
         run: |
