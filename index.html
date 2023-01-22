@@ -42,7 +42,7 @@
 			</div>
 		</header>
 		<div style="text-align: center;">
-			<span>Generado por última vez el 22/01/2023 a las 13:38 UTC</span>
+			<span>Generado por última vez el 22/01/2023 a las 13:52 UTC</span>
 		</div>
 		<main class="container">
 				<div class="item">
@@ -384,18 +384,18 @@
 
 			function showFlipo()
 			{
-				console.log("triggered showFlipo")
 				remove = document.getElementById("disappear");
 				if(remove) {
 					remove.remove();
 				}
 				block_to_insert = document.createElement( 'div' );
 				block_to_insert.setAttribute("id", "disappear");
-				block_to_insert.innerHTML = '<img src="img/flipo.jpg">' ;
+				block_to_insert.innerHTML = '<img src="img/flipo.webp">' ;
 				container_block = document.getElementsByTagName('body')[0];
 				container_block.appendChild( block_to_insert );
 				setTimeout(removeDisappear, 200)
 			}
 		</script>
+		<div id="preloadedImages"></div>
 	</body>
 </html>
