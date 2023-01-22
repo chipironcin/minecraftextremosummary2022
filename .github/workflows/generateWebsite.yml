@@ -16,7 +16,6 @@ jobs:
     steps:
       - name: GetCurrentDate
         id: date
-        run: echo "::set-output name=date::"
         run: echo "{date}={$(date +"%d/%m/%Y a las %H:%M")}" >> $GITHUB_OUTPUT
       - name: Checkout
         uses: actions/checkout@v3
