@@ -19,7 +19,7 @@ jobs:
       - name: Handlebars Render
         uses: mikeal/npx@master
         with:
-          param: 'hbs-cli --data data.json index.hbs -output index.html'
+          args: 'hbs-cli --data data.json index.hbs -output index.html'
       - name: Commit
         run: |
           git config user.name github-actions
