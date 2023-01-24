@@ -416,9 +416,9 @@
         {
             "name": "Virus",
             "channel": "https://www.twitch.tv/byviruzz",
-            "death1": "",
-            "death2": "",
-            "death3": ""
+            "death1": "#",
+            "death2": "#",
+            "death3": "#"
         },
         {
             "name": "Volcano",
