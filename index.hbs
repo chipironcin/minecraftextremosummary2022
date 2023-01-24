@@ -46,9 +46,9 @@
 		</div>
 		<main class="container">
 				{{#each players}}<div class="item">
-					{{#if this.death3}}<a href="{{this.death3}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
-					{{#if this.death2}}<a href="{{this.death2}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
-					{{#if this.death1}}<a href="{{this.death1}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					{{#if this.deaths.[2]}}<a href="{{this.deaths.[2]}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					{{#if this.deaths.[1]}}<a href="{{this.deaths.[1]}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
+					{{#if this.deaths.[0]}}<a href="{{this.deaths.[0]}}"><i class="icon-heart-empty"></i></a>{{else}}<i class="icon-heart"></i>{{/if}}
 					<a href="{{this.channel}}"><p>{{this.name}}</p></a>
 				</div>{{/each}}
 		</main>

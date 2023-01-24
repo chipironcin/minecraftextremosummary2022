@@ -3,457 +3,505 @@
         {
             "name": "8CHO",
             "channel": "https://www.twitch.tv/8cho",
-            "death1": "https://www.twitch.tv/8cho/clip/BenevolentGoodJaguarPunchTrees-kcPzs27fDvE5FOVs",
-            "death2": "https://www.twitch.tv/8cho/clip/TiredCourageousChimpanzeeKappaPride-kIvmJNMZ0s0WjNr9",
-            "death3": "https://www.twitch.tv/8cho/clip/RelentlessSpoopyPeppermintRiPepperonis-kQMEMpnue8zeeOyH"
+            "deaths": [
+                "https://www.twitch.tv/8cho/clip/BenevolentGoodJaguarPunchTrees-kcPzs27fDvE5FOVs",
+                "https://www.twitch.tv/8cho/clip/TiredCourageousChimpanzeeKappaPride-kIvmJNMZ0s0WjNr9",
+                "https://www.twitch.tv/8cho/clip/RelentlessSpoopyPeppermintRiPepperonis-kQMEMpnue8zeeOyH"
+            ]
         },
         {
             "name": "Aleiv",
             "channel": "https://www.twitch.tv/alecuarto",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616891473479491584",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617649066602795011",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616891473479491584",
+                "https://twitter.com/Tortilla_Land/status/1617649066602795011"
+            ]
         },
         {
             "name": "AriGameplays",
             "channel": "https://www.twitch.tv/arigameplays",
-            "death1": "https://mobile.twitter.com/Tortilla_Land/status/1615889584130236417",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://mobile.twitter.com/Tortilla_Land/status/1615889584130236417"
+            ]
         },
         {
             "name": "Aroyitt",
             "channel": "https://www.twitch.tv/aroyitt",
-            "death1": "https://www.twitch.tv/aroyitt/clip/SoftHappyPresidentDansGame-R-Ln95Dsbp2SnuwP",
-            "death2": "https://twitter.com/Tortilla_Land/status/1616961812154519552",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/aroyitt/clip/SoftHappyPresidentDansGame-R-Ln95Dsbp2SnuwP",
+                "https://twitter.com/Tortilla_Land/status/1616961812154519552"
+            ]
         },
         {
             "name": "Auron",
             "channel": "https://www.twitch.tv/auronplay",
-            "death1": "https://www.twitch.tv/auronplay/clip/ConsiderateCourageousKangarooResidentSleeper-kks3sxjLajAfwreh",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/auronplay/clip/ConsiderateCourageousKangarooResidentSleeper-kks3sxjLajAfwreh"
+            ]
         },
         {
             "name": "Axozer",
             "channel": "https://www.twitch.tv/axozer",
-            "death1": "https://www.twitch.tv/axozer/clip/ScrumptiousUnusualRhinocerosMoreCowbell-NV51QxWUlqae1ss_",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617609289589264396",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/axozer/clip/ScrumptiousUnusualRhinocerosMoreCowbell-NV51QxWUlqae1ss_",
+                "https://twitter.com/Tortilla_Land/status/1617609289589264396"
+            ]
         },
         {
             "name": "Biyin",
             "channel": "https://www.twitch.tv/biyin_",
-            "death1": "https://www.twitch.tv/biyin_/clip/LightAgileCroissantWow-_AXKI7iwMxw6afCF",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/biyin_/clip/LightAgileCroissantWow-_AXKI7iwMxw6afCF"
+            ]
         },
         {
             "name": "Breifr9",
             "channel": "https://www.twitch.tv/breifr9",
-            "death1": "https://twitter.com/Tortilla_Land/status/1615740635872624643",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1615740635872624643"
+            ]
         },
         {
             "name": "Carola",
             "channel": "https://www.twitch.tv/carola",
-            "death1": "https://www.twitch.tv/carola/clip/UninterestedJoyousLegPanicVis-zg_w_2UXiKawqY5S",
-            "death2": "https://www.twitch.tv/carola/clip/OutstandingSlipperyCarabeefVoteYea-rVBvaMZ7euKLtC-4",
-            "death3": "https://www.twitch.tv/carola/clip/JoyousKnottyMeerkatPicoMause-ni0YQ1LTtG8Wsa40"
+            "deaths": [
+                "https://www.twitch.tv/carola/clip/UninterestedJoyousLegPanicVis-zg_w_2UXiKawqY5S",
+                "https://www.twitch.tv/carola/clip/OutstandingSlipperyCarabeefVoteYea-rVBvaMZ7euKLtC-4",
+                "https://www.twitch.tv/carola/clip/JoyousKnottyMeerkatPicoMause-ni0YQ1LTtG8Wsa40"
+            ]
         },
         {
             "name": "Cristinini",
             "channel": "https://www.twitch.tv/iamcristinini",
-            "death1": "https://www.twitch.tv/iamcristinini/clip/SilkyKathishAxeCurseLit-rLOrJyS_kEJE120S",
-            "death2": "https://www.twitch.tv/iamcristinini/clip/AntsyCleanPigPeanutButterJellyTime-dNeaQKdp3Oyusbwa",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/iamcristinini/clip/SilkyKathishAxeCurseLit-rLOrJyS_kEJE120S",
+                "https://www.twitch.tv/iamcristinini/clip/AntsyCleanPigPeanutButterJellyTime-dNeaQKdp3Oyusbwa"
+            ]
         },
         {
             "name": "Ded",
             "channel": "https://www.twitch.tv/elded",
-            "death1": "https://www.twitch.tv/elded/clip/TallMiniatureSquirrelCharlieBitMe-6qBKYCWT8jj4AZtj",
-            "death2": "https://mobile.twitter.com/Tortilla_Land/status/1615778937124098048",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/elded/clip/TallMiniatureSquirrelCharlieBitMe-6qBKYCWT8jj4AZtj",
+                "https://mobile.twitter.com/Tortilla_Land/status/1615778937124098048"
+            ]
         },
         {
             "name": "Deqiuv",
             "channel": "https://www.twitch.tv/deqiuv",
-            "death1": "https://www.twitch.tv/deqiuv/clip/SeductiveBombasticLasagnaCopyThis-3UPyotM_AmfIF0Sm",
-            "death2": "https://www.twitch.tv/deqiuv/clip/CrispyDrabBarracudaLeeroyJenkins-kyeG5ogR9WYqhUaW",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/deqiuv/clip/SeductiveBombasticLasagnaCopyThis-3UPyotM_AmfIF0Sm",
+                "https://www.twitch.tv/deqiuv/clip/CrispyDrabBarracudaLeeroyJenkins-kyeG5ogR9WYqhUaW"
+            ]
         },
         {
             "name": "Desst",
             "channel": "https://www.twitch.tv/desst3",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617643554599473154",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617643554599473154"
+            ]
         },
         {
             "name": "Edurne",
             "channel": "https://www.twitch.tv/edurnity",
-            "death1": "https://www.twitch.tv/edurnity/clip/RelentlessCulturedGuanacoTakeNRG-QhTu5Jmja-hc4peS",
-            "death2": "https://www.twitch.tv/edurnity/clip/AwkwardOutstandingBaboonFunRun-JO-EdM-ui7hlsygz",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/edurnity/clip/RelentlessCulturedGuanacoTakeNRG-QhTu5Jmja-hc4peS",
+                "https://www.twitch.tv/edurnity/clip/AwkwardOutstandingBaboonFunRun-JO-EdM-ui7hlsygz"
+            ]
         },
         {
             "name": "ElisaWaves",
             "channel": "https://www.twitch.tv/elisawaves",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617625129324007424",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617625129324007424"
+            ]
         },
         {
             "name": "ElMariana",
             "channel": "https://www.twitch.tv/elmariana",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617644514633732097",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617679846276202496",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617644514633732097",
+                "https://twitter.com/Tortilla_Land/status/1617679846276202496"
+            ]
         },
         {
             "name": "ElXokas",
             "channel": "https://www.twitch.tv/elxokas",
-            "death1": "https://www.twitch.tv/elxokas/clip/PeacefulAnimatedSashimiHassanChop-hYGd3sc01OURf7V1",
-            "death2": "https://www.twitch.tv/elxokas/clip/TsundereAlluringMosquitoM4xHeh-YG2TwIWMJ-HIdqhA",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/elxokas/clip/PeacefulAnimatedSashimiHassanChop-hYGd3sc01OURf7V1",
+                "https://www.twitch.tv/elxokas/clip/TsundereAlluringMosquitoM4xHeh-YG2TwIWMJ-HIdqhA"
+            ]
         },
         {
             "name": "Focus",
             "channel": "https://www.twitch.tv/xxxthefocusxxx",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616451296826884098",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616451296826884098"
+            ]
         },
         {
             "name": "Folagor",
             "channel": "https://www.twitch.tv/folagorlives",
-            "death1": "https://www.twitch.tv/folagorlives/clip/FamousOutstandingSkirretHassanChop-R4uwpLfkkEfHB83V",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/folagorlives/clip/FamousOutstandingSkirretHassanChop-R4uwpLfkkEfHB83V"
+            ]
         },
         {
             "name": "Genesis",
             "channel": "https://www.twitch.tv/genesis",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617554388649906176",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617554388649906176"
+            ]
         },
         {
             "name": "Goes",
             "channel": "https://www.twitch.tv/goes_x",
-            "death1": "https://www.twitch.tv/goes_x/clip/PreciousSplendidCourgetteSquadGoals-0mHeAreKb9xCmr5G",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/goes_x/clip/PreciousSplendidCourgetteSquadGoals-0mHeAreKb9xCmr5G"
+            ]
         },
         {
             "name": "Hitboxking",
             "channel": "https://www.twitch.tv/hitboxking",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616906164507115520",
-            "death2": "https://twitter.com/Tortilla_Land/status/1616906164507115520",
-            "death3": "https://twitter.com/Tortilla_Land/status/1617644066812071940"
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616906164507115520",
+                "https://twitter.com/Tortilla_Land/status/1616906164507115520",
+                "https://twitter.com/Tortilla_Land/status/1617644066812071940"
+            ]
         },
         {
             "name": "Ibai",
             "channel": "https://www.twitch.tv/ibai",
-            "death1": "https://www.twitch.tv/ibai/clip/TardyCrepuscularHamTBCheesePull--yD8IynhYFUDVwWf",
-            "death2": "https://clips.twitch.tv/AgileCautiousGazelleDendiFace--cKDmW9KxVcRVTEa",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/ibai/clip/TardyCrepuscularHamTBCheesePull--yD8IynhYFUDVwWf",
+                "https://clips.twitch.tv/AgileCautiousGazelleDendiFace--cKDmW9KxVcRVTEa"
+            ]
         },
         {
             "name": "Imantado",
             "channel": "https://www.twitch.tv/imantado",
-            "death1": "https://www.twitch.tv/imantado/clip/ExcitedKindJamHumbleLife-O2bFdoWGoOogBqD7",
-            "death2": "https://www.twitch.tv/imantado/clip/CourteousDependableTruffleEleGiggle-RYIiXcvJLjHSK-Mp",
-            "death3": "https://www.twitch.tv/imantado/clip/TubularNimbleVultureRuleFive-vD0y41qXkqvJHGYI"
+            "deaths": [
+                "https://www.twitch.tv/imantado/clip/ExcitedKindJamHumbleLife-O2bFdoWGoOogBqD7",
+                "https://www.twitch.tv/imantado/clip/CourteousDependableTruffleEleGiggle-RYIiXcvJLjHSK-Mp",
+                "https://www.twitch.tv/imantado/clip/TubularNimbleVultureRuleFive-vD0y41qXkqvJHGYI"
+            ]
         },
         {
             "name": "Jacky",
             "channel": "https://www.twitch.tv/coolifegame",
-            "death1": "https://www.twitch.tv/coolifegame/clip/BombasticCallousFinchDerp-T8cIBNw1fBTxLQOl",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/coolifegame/clip/BombasticCallousFinchDerp-T8cIBNw1fBTxLQOl"
+            ]
         },
         {
             "name": "Jokky",
-            "channel": "",
-            "death1": "none",
-            "death2": "none",
-            "death3": "none"
+            "deaths": [
+                "none",
+                "none",
+                "none"
+            ]
         },
         {
             "name": "Josecristo",
             "channel": "https://www.twitch.tv/josecristo_",
-            "death1": "",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                ""
+            ]
         },
         {
             "name": "Josepo",
             "channel": "https://www.twitch.tv/josepo_90",
-            "death1": "https://mobile.twitter.com/Tortilla_Land/status/1616120466980196355",
-            "death2": "https://mobile.twitter.com/Tortilla_Land/status/1616122633950728193",
-            "death3": "https://mobile.twitter.com/Tortilla_Land/status/1616123755402760192"
+            "deaths": [
+                "https://mobile.twitter.com/Tortilla_Land/status/1616120466980196355",
+                "https://mobile.twitter.com/Tortilla_Land/status/1616122633950728193",
+                "https://mobile.twitter.com/Tortilla_Land/status/1616123755402760192"
+            ]
         },
         {
             "name": "J. Guarnizo",
             "channel": "https://www.twitch.tv/juansguarnizo",
-            "death1": "https://mobile.twitter.com/Tortilla_Land/status/1615482154925920257",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://mobile.twitter.com/Tortilla_Land/status/1615482154925920257"
+            ]
         },
         {
             "name": "Karchez",
             "channel": "https://www.twitch.tv/karchez",
-            "death1": "https://www.twitch.tv/karchez/clip/GentleHealthyDragonflyPastaThat-VrI5xxHVR8Nueweo",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/karchez/clip/GentleHealthyDragonflyPastaThat-VrI5xxHVR8Nueweo"
+            ]
         },
         {
             "name": "Komanche",
             "channel": "https://www.twitch.tv/komanche____",
-            "death1": "https://mobile.twitter.com/Tortilla_Land/status/1615743006430093313",
-            "death2": "https://mobile.twitter.com/Tortilla_Land/status/1615810886811422720",
-            "death3": ""
+            "deaths": [
+                "https://mobile.twitter.com/Tortilla_Land/status/1615743006430093313",
+                "https://mobile.twitter.com/Tortilla_Land/status/1615810886811422720"
+            ]
         },
         {
             "name": "Luh",
             "channel": "https://www.twitch.tv/luh",
-            "death1": "https://www.twitch.tv/luh/clip/GrossDiligentDoveVoteYea-2SBoKaT67Kus727z",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/luh/clip/GrossDiligentDoveVoteYea-2SBoKaT67Kus727z"
+            ]
         },
         {
             "name": "MarkiLokuras",
             "channel": "https://www.twitch.tv/markilokurasy",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616837036668846089",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616837036668846089"
+            ]
         },
         {
             "name": "Mayichi",
             "channel": "https://www.twitch.tv/mayichi",
-            "death1": "https://www.twitch.tv/mayichi/clip/BashfulDirtyButterflyKappaPride-zb7JJAEiAl9jfb-d",
-            "death2": "https://www.twitch.tv/mayichi/clip/ShyCourteousMangoFrankerZ-vXwViph5QzceekNk",
-            "death3": "https://twitter.com/Tortilla_Land/status/1617665325348294656"
+            "deaths": [
+                "https://www.twitch.tv/mayichi/clip/BashfulDirtyButterflyKappaPride-zb7JJAEiAl9jfb-d",
+                "https://www.twitch.tv/mayichi/clip/ShyCourteousMangoFrankerZ-vXwViph5QzceekNk",
+                "https://twitter.com/Tortilla_Land/status/1617665325348294656"
+            ]
         },
         {
             "name": "Missandie",
             "channel": "https://www.twitch.tv/missandieftw_",
-            "death1": "https://www.twitch.tv/missandieftw_/clip/HardDreamyPigCoolStoryBob-GYnN9XDlOaoXsxpF",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/missandieftw_/clip/HardDreamyPigCoolStoryBob-GYnN9XDlOaoXsxpF"
+            ]
         },
         {
             "name": "MissaSinfonia",
             "channel": "https://www.twitch.tv/missasinfonia",
-            "death1": "https://www.twitch.tv/missasinfonia/clip/WildObeseWrenchCorgiDerp-6Q5r30Mlgu7SYIPP",
-            "death2": "https://www.twitch.tv/missasinfonia/clip/TenuousGrotesqueFishUncleNox-gOQp93WAXW4e4RQY",
-            "death3": "https://mobile.twitter.com/Tortilla_Land/status/1616965124954128385"
+            "deaths": [
+                "https://www.twitch.tv/missasinfonia/clip/WildObeseWrenchCorgiDerp-6Q5r30Mlgu7SYIPP",
+                "https://www.twitch.tv/missasinfonia/clip/TenuousGrotesqueFishUncleNox-gOQp93WAXW4e4RQY",
+                "https://mobile.twitter.com/Tortilla_Land/status/1616965124954128385"
+            ]
         },
         {
             "name": "Mixwell",
             "channel": "https://www.twitch.tv/mixwell",
-            "death1": "https://www.twitch.tv/mixwell/clip/TenaciousSleepyPterodactylOneHand-vKSuEjppYj0XnNNA",
-            "death2": "https://www.twitch.tv/mixwell/clip/GentleGoodYakCoolStoryBob-lj4-H81mECU5qxJ0",
-            "death3": "https://www.twitch.tv/mixwell/clip/KnottyAbrasiveEchidnaHassanChop-6Fb4TI5g_1XskLPy"
+            "deaths": [
+                "https://www.twitch.tv/mixwell/clip/TenaciousSleepyPterodactylOneHand-vKSuEjppYj0XnNNA",
+                "https://www.twitch.tv/mixwell/clip/GentleGoodYakCoolStoryBob-lj4-H81mECU5qxJ0",
+                "https://www.twitch.tv/mixwell/clip/KnottyAbrasiveEchidnaHassanChop-6Fb4TI5g_1XskLPy"
+            ]
         },
         {
             "name": "Nexxuz",
             "channel": "https://www.twitch.tv/nexxuzhd",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616915493054562311",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617630547785961472",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616915493054562311",
+                "https://twitter.com/Tortilla_Land/status/1617630547785961472"
+            ]
         },
         {
             "name": "Nia",
             "channel": "https://www.twitch.tv/lakshartnia",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617564624492335105",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617564624492335105"
+            ]
         },
         {
             "name": "NilOjeda",
             "channel": "https://www.twitch.tv/nilojeda",
-            "death1": "https://mobile.twitter.com/Tortilla_Land/status/1615773561087467520",
-            "death2": "https://www.twitch.tv/nilojeda/clip/SmokyCrepuscularMeatloafKreygasm-jms2GDatm7i8IPvU",
-            "death3": "https://twitter.com/Tortilla_Land/status/1617561257560735744"
+            "deaths": [
+                "https://mobile.twitter.com/Tortilla_Land/status/1615773561087467520",
+                "https://www.twitch.tv/nilojeda/clip/SmokyCrepuscularMeatloafKreygasm-jms2GDatm7i8IPvU",
+                "https://twitter.com/Tortilla_Land/status/1617561257560735744"
+            ]
         },
         {
             "name": "Noni",
             "channel": "https://www.twitch.tv/noni",
-            "death1": "https://www.twitch.tv/noni/clip/EnergeticObedientArmadilloNomNom-h5PUtLJw5NSpfZwU",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/noni/clip/EnergeticObedientArmadilloNomNom-h5PUtLJw5NSpfZwU"
+            ]
         },
         {
             "name": "OllieGamerz",
             "channel": "https://www.twitch.tv/olliegamerz",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616902268221014018",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616902268221014018"
+            ]
         },
         {
             "name": "Pato",
             "channel": "https://www.twitch.tv/patodeaqualand",
-            "death1": "https://www.twitch.tv/patodeaqualand/clip/SmellyStupidCaribouThisIsSparta-mOsTuTeRjaTnognD",
-            "death2": "https://www.twitch.tv/patodeaqualand/clip/SnappyProductiveTomatoUncleNox-LDxs2FrSfy0Bz32u",
-            "death3": "https://www.twitch.tv/patodeaqualand/clip/PolishedKawaiiSandwichBrainSlug-CE6nWj0rYJwTTRaU"
+            "deaths": [
+                "https://www.twitch.tv/patodeaqualand/clip/SmellyStupidCaribouThisIsSparta-mOsTuTeRjaTnognD",
+                "https://www.twitch.tv/patodeaqualand/clip/SnappyProductiveTomatoUncleNox-LDxs2FrSfy0Bz32u",
+                "https://www.twitch.tv/patodeaqualand/clip/PolishedKawaiiSandwichBrainSlug-CE6nWj0rYJwTTRaU"
+            ]
         },
         {
             "name": "Perxitaa",
             "channel": "https://www.twitch.tv/perxitaa",
-            "death1": "https://www.twitch.tv/perxitaa/clip/TastySpineyAsparagusStoneLightning-N5Wnfy9YGBF4_6kd",
-            "death2": "https://www.twitch.tv/perxitaa/clip/YummyFairCatTwitchRaid-ZnKypvRapk-LiCaR",
-            "death3": "https://www.twitch.tv/perxitaa/clip/CredulousGoodBoarCoolCat-mi22h8ENiBOiqVaU"
+            "deaths": [
+                "https://www.twitch.tv/perxitaa/clip/TastySpineyAsparagusStoneLightning-N5Wnfy9YGBF4_6kd",
+                "https://www.twitch.tv/perxitaa/clip/YummyFairCatTwitchRaid-ZnKypvRapk-LiCaR",
+                "https://www.twitch.tv/perxitaa/clip/CredulousGoodBoarCoolCat-mi22h8ENiBOiqVaU"
+            ]
         },
         {
             "name": "Polispol",
             "channel": "https://www.twitch.tv/polispol1",
-            "death1": "https://www.twitch.tv/polispol1/clip/OilyPatientCroissantVoteNay-NvdkpnOZCxlIpZk5",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/polispol1/clip/OilyPatientCroissantVoteNay-NvdkpnOZCxlIpZk5"
+            ]
         },
         {
             "name": "Quackity",
             "channel": "https://www.twitch.tv/quackitytoo",
-            "death1": "https://www.twitch.tv/quackitytoo/clip/ViscousFancyBibimbapPhilosoraptor-8Qz-hPoJSMQrMbF7",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/quackitytoo/clip/ViscousFancyBibimbapPhilosoraptor-8Qz-hPoJSMQrMbF7"
+            ]
         },
         {
             "name": "Rubius",
             "channel": "https://www.twitch.tv/rubius",
-            "death1": "https://www.twitch.tv/rubius/clip/GloriousVenomousSparrowNononoCat-4fpm4Tah787c_SeW",
-            "death2": "https://www.twitch.tv/rubius/clip/HeartlessIronicStinkbugCharlietheUnicorn-kFdh7FgQCBpqplvV",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/rubius/clip/GloriousVenomousSparrowNononoCat-4fpm4Tah787c_SeW",
+                "https://www.twitch.tv/rubius/clip/HeartlessIronicStinkbugCharlietheUnicorn-kFdh7FgQCBpqplvV"
+            ]
         },
         {
             "name": "Reborn",
             "channel": "https://www.twitch.tv/reborn_live",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616865195745222656",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616865195745222656"
+            ]
         },
         {
             "name": "Ricoy",
             "channel": "https://www.twitch.tv/ricoy",
-            "death1": "https://www.twitch.tv/ricoy/clip/WittyChillyKittenPupper-AFq0AJpOE-vZkqd0",
-            "death2": "https://www.twitch.tv/ricoy/clip/FunnyHedonisticChickenShadyLulu-_q7z5h7fvo4ADfjy",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/ricoy/clip/WittyChillyKittenPupper-AFq0AJpOE-vZkqd0",
+                "https://www.twitch.tv/ricoy/clip/FunnyHedonisticChickenShadyLulu-_q7z5h7fvo4ADfjy"
+            ]
         },
         {
             "name": "Rioboo",
             "channel": "https://www.twitch.tv/rioboo",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617552968877842433",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617574375330381824",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617552968877842433",
+                "https://twitter.com/Tortilla_Land/status/1617574375330381824"
+            ]
         },
         {
             "name": "Robleis",
             "channel": "https://www.twitch.tv/robleis",
-            "death1": "https://www.twitch.tv/robleis/clip/TallWildJackalFloof-TYLpJPQ91EmbRZJI",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/robleis/clip/TallWildJackalFloof-TYLpJPQ91EmbRZJI"
+            ]
         },
         {
             "name": "Roier",
             "channel": "https://www.twitch.tv/roier",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617645204940656647",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617645204940656647"
+            ]
         },
         {
             "name": "Shadoune",
             "channel": "https://www.twitch.tv/shadoune666",
-            "death1": "https://www.twitch.tv/shadoune666/clip/HumbleLovelyBatThisIsSparta-LO4L1skGgECNdQT9",
-            "death2": "https://www.twitch.tv/shadoune666/clip/SmallResilientMarrowMau5-FUD-1xClakN29yqh",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/shadoune666/clip/HumbleLovelyBatThisIsSparta-LO4L1skGgECNdQT9",
+                "https://www.twitch.tv/shadoune666/clip/SmallResilientMarrowMau5-FUD-1xClakN29yqh"
+            ]
         },
         {
             "name": "Spreen",
             "channel": "https://www.twitch.tv/elspreen",
-            "death1": "https://www.twitch.tv/elspreen/clip/AntsyWildReindeerDerp-t6fvjq2ydHs8Wbo7",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/elspreen/clip/AntsyWildReindeerDerp-t6fvjq2ydHs8Wbo7"
+            ]
         },
         {
             "name": "Stratus",
             "channel": "https://www.twitch.tv/stratus",
-            "death1": "https://www.twitch.tv/stratus/clip/SleepyFastFloofHassaanChop-IpEoBVDEgGlGQBg_",
-            "death2": "https://www.twitch.tv/stratus/clip/ImportantRockyShinglePanicVis-h7Vd3P4Yz6F9FC4a",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/stratus/clip/SleepyFastFloofHassaanChop-IpEoBVDEgGlGQBg_",
+                "https://www.twitch.tv/stratus/clip/ImportantRockyShinglePanicVis-h7Vd3P4Yz6F9FC4a"
+            ]
         },
         {
             "name": "Tanizen",
             "channel": "https://www.twitch.tv/tanizen",
-            "death1": "https://www.twitch.tv/tanizen/clip/BumblingYummyPandaTriHard-AgUAzzoxXl_N76gm",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/tanizen/clip/BumblingYummyPandaTriHard-AgUAzzoxXl_N76gm"
+            ]
         },
         {
             "name": "TheGrefg",
             "channel": "https://www.twitch.tv/thegrefg",
-            "death1": "https://www.twitch.tv/thegrefg/clip/NaiveHonestNoodleGingerPower-0gOfXewVrl5YetXK",
-            "death2": "https://www.twitch.tv/thegrefg/clip/ImpossibleCaringHamburgerMrDestructoid-4Pz32jIwN_hiVEHI",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/thegrefg/clip/NaiveHonestNoodleGingerPower-0gOfXewVrl5YetXK",
+                "https://www.twitch.tv/thegrefg/clip/ImpossibleCaringHamburgerMrDestructoid-4Pz32jIwN_hiVEHI"
+            ]
         },
         {
             "name": "Vicens",
             "channel": "https://www.twitch.tv/cgt_vicens",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616800305701584899",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617588340852662272",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616800305701584899",
+                "https://twitter.com/Tortilla_Land/status/1617588340852662272"
+            ]
         },
         {
             "name": "Violeta",
             "channel": "https://www.twitch.tv/violetag",
-            "death1": "https://twitter.com/Tortilla_Land/status/1616905203613057025",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1616905203613057025"
+            ]
         },
         {
             "name": "Virus",
             "channel": "https://www.twitch.tv/byviruzz",
-            "death1": "#",
-            "death2": "#",
-            "death3": "#"
+            "deaths": [
+                "#",
+                "#",
+                "#"
+            ]
         },
         {
             "name": "Volcano",
             "channel": "https://www.twitch.tv/isvolcano",
-            "death1": "https://www.twitch.tv/isvolcano/clip/BlushingGenerousBottleSpicyBoy-wMJf8vra5zQYphGI",
-            "death2": "https://www.twitch.tv/isvolcano/clip/OutstandingYummyCobblerTTours-4mvtAZTC03wxxS3y",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/isvolcano/clip/BlushingGenerousBottleSpicyBoy-wMJf8vra5zQYphGI",
+                "https://www.twitch.tv/isvolcano/clip/OutstandingYummyCobblerTTours-4mvtAZTC03wxxS3y"
+            ]
         },
         {
             "name": "Zorman",
             "channel": "https://www.twitch.tv/zormanworld",
-            "death1": "https://twitter.com/Tortilla_Land/status/1617608506194137088",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://twitter.com/Tortilla_Land/status/1617608506194137088"
+            ]
         },
         {
             "name": "Kajal",
             "channel": "https://www.twitch.tv/kajalnapalm",
-            "death1": "https://www.twitch.tv/kajalnapalm/clip/ShinyPrettyGoshawkWholeWheat-Tb9wE6-8YrYgQcHo",
-            "death2": "https://www.twitch.tv/kajalnapalm/clip/ColdbloodedRespectfulMangoFutureMan-djmUwxyRLyLDqvsE",
-            "death3": "https://twitter.com/Tortilla_Land/status/1617626271000952832"
+            "deaths": [
+                "https://www.twitch.tv/kajalnapalm/clip/ShinyPrettyGoshawkWholeWheat-Tb9wE6-8YrYgQcHo",
+                "https://www.twitch.tv/kajalnapalm/clip/ColdbloodedRespectfulMangoFutureMan-djmUwxyRLyLDqvsE",
+                "https://twitter.com/Tortilla_Land/status/1617626271000952832"
+            ]
         },
         {
             "name": "JCorko",
             "channel": "https://www.twitch.tv/jcorko_",
-            "death1": "https://www.twitch.tv/jcorko_/clip/HonorableAggressiveTapirYee-tRw-6nkkBVMORYHF",
-            "death2": "",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/jcorko_/clip/HonorableAggressiveTapirYee-tRw-6nkkBVMORYHF"
+            ]
         },
         {
             "name": "ElPerita",
             "channel": "https://www.twitch.tv/elperitaafk",
-            "death1": "https://www.twitch.tv/elperitaafk/clip/CoweringEmpathicWolfNotLikeThis-IUp5XYufsszPNv5z",
-            "death2": "https://twitter.com/Tortilla_Land/status/1617579881121841170",
-            "death3": ""
+            "deaths": [
+                "https://www.twitch.tv/elperitaafk/clip/CoweringEmpathicWolfNotLikeThis-IUp5XYufsszPNv5z",
+                "https://twitter.com/Tortilla_Land/status/1617579881121841170"
+            ]
         }
     ]
 }
