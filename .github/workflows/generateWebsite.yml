@@ -14,14 +14,11 @@ jobs:
     name: GenerateWebsite
     runs-on: ubuntu-latest
     steps:
-      - name: GetCurrentDate
-        id: date
-        run: echo "date=$(date +"%d/%m/%Y a las %H:%M")" >> $GITHUB_OUTPUT
       - name: Checkout
         uses: actions/checkout@v3
       - uses: actions/setup-node@v3
       - run: |
-          npx hbs-cli --data data.json --data "{\"currentDate\": \"${{ steps.date.outputs.date }}\"}" index.hbs
+          npx hbs-cli --helper ./helpers/getCurrentDateTime.js --helper ./helpers/getCountWithHearts.js --data data.json index.hbs
       - name: Commit
         run: |
           git config user.name github-actions

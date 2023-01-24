@@ -42,7 +42,15 @@
 			</div>
 		</header>
 		<div style="text-align: center;">
-			<span>Generado por última vez el {{currentDate}} UTC</span>
+			<span>Generado por última vez el {{getCurrentDateTime}}{{getCountWithHearts players 0}}</span>
+		</div>
+		<div style="text-align: center;">
+			<div style="display: inline-block; text-align: left;">
+				<span><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i> {{getCountWithHearts players 0}} jugadores</span></br>
+				<span><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i> {{getCountWithHearts players 1}} jugadores</span></br>
+				<span><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i> {{getCountWithHearts players 2}} jugadores</span></br>
+				<span><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i> {{getCountWithHearts players 3}} jugadores</span>
+			</div>
 		</div>
 		<main class="container">
 				{{#each players}}<div class="item">
